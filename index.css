@@ -1,0 +1,39 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(219, 19%, 58%);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: hsl(216, 49%, 18%);
+    width: 38%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 3% 3%;
+    border-radius: 15px;
+    justify-content: center;
+}
+
+.content {
+    font-size: 3z0px;
+}
+
+img {
+    height: 500px;
+    width: 438px;
+}
+
+
+/* @media(max-width:700px) {} */
